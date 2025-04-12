@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>بشار جارالله</title>
+  <title> الهام هشام</title>
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
@@ -198,7 +198,7 @@
 
   <!-- Navbar -->
   <nav>
-    <h1>بشار جارالله</h1>
+    <h1> الهام هشام </h1>
     <ul>
       <li><a href="#about">عني</a></li>
       <li><a href="#skills">مهاراتي</a></li>
@@ -210,7 +210,7 @@
   <!-- Header -->
   <header>
     <img src="https://via.placeholder.com/150" alt="صورة بشار" />
-    <h2>بشار جارالله</h2>
+    <h2> الهم الغالية </h2>
     <p>مطور ويب ومصمم واجهات - عاشق للتقنية والإبداع</p>
   </header>
 
@@ -218,7 +218,7 @@
   <section id="about" class="about">
     <h3>من أنا؟</h3>
     <p>
-      أنا بشار، شغوف بعالم البرمجة وتصميم الويب. أعمل على بناء مواقع عصرية وجذابة باستخدام أحدث التقنيات. أحب التحديات واستكشاف كل جديد في عالم التقنية.
+      أنا الهام، شغوفة بعالم البرمجة وتصميم الويب. أعمل على بناء مواقع عصرية وجذابة باستخدام أحدث التقنيات. أحب التحديات واستكشاف كل جديد في عالم التقنية.
     </p>
   </section>
 
